@@ -15,7 +15,7 @@ The Official Gas Meme Coin GitHub Page
 - 📧 **Email**: gasprojectsolana@gmail.com 
 
 ## Logo
-![GAS Logo](https://bafybeidtdlagdaerif6c5lwbbovqkuvjudwieit3wjaqeczh42qdrp4z4e.ipfs.w3s.link/logo.png)
+![GAS Logo](https://i.imgur.com/20hC5VU.jpeg)
 
 ---
 
