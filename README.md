@@ -9,7 +9,7 @@ The Official Gas Meme Coin GitHub Page
 - **Symbol**: GAS  
 - **Decimals**: 9  
 - **Mint Address**: `HREc8BYkU5CQdawhhb36DrUcU8EXYpU92baVWMJqZvW7`  
-- **Metadata URI**: [View on IPFS](https://bafybeidtdlagdaerif6c5lwbbovqkuvjudwieit3wjaqeczh42qdrp4z4e.ipfs.w3s.link)
+- **Metadata URI**: [View on IPFS](https://bafybeiacf5kwn7tf4c2rtyixsa3btc44damvt4hvloq7kgljqpkgpqdnw4.ipfs.w3s.link)
 
 ## Contact
 - 📧 **Email**: gasprojectsolana@gmail.com 
